@@ -1,4 +1,4 @@
-# Nepalese-dataset-visualization
+# Open Nepal datasets visualizations
 
 Houses data visualizations of datasets provided from http://data.opennepal.net/.
 
